@@ -1,0 +1,19 @@
+.odd {
+    background-color: #c968d4;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#sec {
+    color: #71b6fb;
+    font-size: 36px;
+}
+
+.trd {
+    font-size: 24px;
+}
+
+#fth {
+    background-color: #66ffc2;
+    font-size: 24px;
+    font-weight: bold;
+}
